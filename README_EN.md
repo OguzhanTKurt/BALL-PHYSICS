@@ -52,9 +52,8 @@ python tester.py
 - Visual look/feel is sleek and modern
 
 ---
-**We hope you have a ball!**
 
-For issues: just blame gravity 😜
+For issues: just switch off and on...
 
 ---
-Developed by: AI & YOU
+Developed by: OĞUZHAN TALHA KURT
