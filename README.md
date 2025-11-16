@@ -54,9 +54,9 @@ python tester.py
 - Tüm butonlar büyük, renkli, modern ve mouse-ile eğlencelik
 
 ---
-Bugsız yazdık, ama yine de bir şey patlarsa: TAHTAYA VUR! 🤞
+Bugsız yazdık, ama yine de bir şey patlarsa: Kapa aç düzelir...
 
 Keyifli top fiziği oyunları dileriz!
 
 ---
-Yazan: AI + SEN
+Yazan: OĞUZHAN TALHA KURT
